@@ -1,0 +1,6 @@
+[submodule "microduck"]
+	path = microduck
+	url = https://github.com/Shunjun/microduck.git
+[submodule "microduck_rl"]
+	path = microduck_rl
+	url = https://github.com/Shunjun/microduck_rl.git
