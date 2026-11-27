@@ -9,6 +9,7 @@
 | 主题 | 文件 |
 | --- | --- |
 | 主控型号、HAT、供电 | [主控与供电](controller.md) |
+| 香橙派用户手册、原理图、位号图、DXF、音频针脚核对 | [Orange Pi Zero 3W 原始资料](orangepi-zero3w/README.md) |
 | UART、I²C、排针与串口设备 | [接线与引脚](wiring.md) |
 | 飞特型号、ID、P 值、规格来源 | [舵机](servos.md) |
 | 身体/头部 IMU、实机扫描结果 | [IMU](imu.md) |

@@ -13,7 +13,7 @@
 
 UART 使用 `/dev/ttyS0`；头部 I²C 使用 `/dev/i2c-0`。不要把原 Radxa 的 `/dev/ttyS2`、I²C3 直接照搬到 A733。
 
-I²C 映射的既有核对依据：原 HAT main/sensors 原理图和用户提供的《OrangePi_Zero3W_A733_用户手册_v1.0.pdf》，此前记录为印刷 98 页 / PDF 105 页。PDF 不在当前根仓库，本页不冒充重新核验过原图。
+I²C 映射已按原 HAT main/sensors 原理图和归档的[香橙派用户手册](orangepi-zero3w/用户手册/OrangePi_Zero3W_A733_用户手册_v1.0.pdf)重新核对，位于正文第 98 页 / PDF 第 105 页。音频的 12/35/38/40 脚另见[音频针脚核对](orangepi-zero3w/audio-pinout.md)。
 
 ## 设备配置
 
